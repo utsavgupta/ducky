@@ -1,0 +1,21 @@
+{
+    "name": "ducky-light",
+    "displayName": "Ducky Light",
+    "description": "A theme inspired by custom keycaps",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ducky Light",
+                "uiTheme": "vs",
+                "path": "./themes/ducky-light-color-theme.json"
+            }
+        ]
+    }
+}
