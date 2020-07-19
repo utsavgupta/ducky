@@ -2,7 +2,7 @@
     "name": "theme-ducky-light",
     "displayName": "Ducky Light Theme",
     "description": "A light theme for Visual Studio Code inspired by pastel keycaps for mechanical keyboards.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "utsavgupta",
     "repository": {
         "type": "git",
