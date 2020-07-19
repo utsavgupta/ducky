@@ -1,10 +1,15 @@
 {
-    "name": "ducky-light",
-    "displayName": "Ducky Light",
-    "description": "A theme inspired by custom keycaps",
+    "name": "theme-ducky-light",
+    "displayName": "Ducky Light Theme",
+    "description": "A light theme for Visual Studio Code inspired by pastel keycaps for mechanical keyboards.",
     "version": "0.0.1",
+    "publisher": "utsavgupta",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/utsavgupta/ducky-light.git"
+      },
     "engines": {
-        "vscode": "^1.47.0"
+        "vscode": "^1.10.0"
     },
     "categories": [
         "Themes"
